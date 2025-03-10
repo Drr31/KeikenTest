@@ -56,14 +56,14 @@ env\Scripts\activate
 
 
 Install required Python packages:
- ```
 
+ ```
 pip install -r requirements.txt
  ```
 
  Start the Flask server:
- ```
 
+ ```
 python app.py
  ```
 
