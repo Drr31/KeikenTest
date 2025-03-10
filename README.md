@@ -45,7 +45,7 @@ Local Explorer is a fullstack application designed to help users discover local 
 #### Backend
 
 1. Navigate to the `backend` directory:
-   ```bash
+   ```
    cd backend
 ```
 python -m venv env
@@ -57,13 +57,13 @@ env\Scripts\activate
 
 Install required Python packages:
  ```
-bash
+
 pip install -r requirements.txt
  ```
 
  Start the Flask server:
  ```
-bash
+
 python app.py
  ```
 
